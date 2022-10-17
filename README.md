@@ -128,7 +128,7 @@ Note: To do this you need access to a project that links to Billing Account. (Th
 
 11. Detach from container (Ctrl+P Ctrl+Q) and Clone this repo to your VM
     ```
-    git clone  simple-hadoop
+    git clone https://github.com/jakgritde/simple-batch-and-streaming-pipeline-with-hadoop-and-pyspark-on-Compute-Engine.git simple-hadoop
     ``` 
 
 12. Copy all files in data folder to container
